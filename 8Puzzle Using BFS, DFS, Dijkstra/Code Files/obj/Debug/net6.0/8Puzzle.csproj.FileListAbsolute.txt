@@ -1,0 +1,60 @@
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\8Puzzle.exe
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\8Puzzle.deps.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\8Puzzle.runtimeconfig.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\bin\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfoInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfo.cs
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8Puzzle\obj\Debug\net6.0\8Puzzle.genruntimeconfig.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\8Puzzle.exe
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\8Puzzle.deps.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\8Puzzle.runtimeconfig.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\bin\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfoInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfo.cs
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8Puzzle\obj\Debug\net6.0\8Puzzle.genruntimeconfig.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.exe
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.deps.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.runtimeconfig.json
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfoInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfo.cs
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COP4365 SoftSysDev\8PuzzleCheck3\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.genruntimeconfig.cache
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.exe
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.deps.json
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.runtimeconfig.json
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\bin\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.AssemblyReference.cache
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfoInputs.cache
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.AssemblyInfo.cs
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.dll
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\ref\8Puzzle.dll
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.pdb
+C:\Users\ulyan\Desktop\COT4400\8PuzzleCheck3_COT4400\8PuzzleCheck7\8Puzzle\obj\Debug\net6.0\8Puzzle.genruntimeconfig.cache

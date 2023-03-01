@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c13f8ffb-2635-44e7-81af-395f2d0d5102": {
+      "ProjectGuid": "c13f8ffb-2635-44e7-81af-395f2d0d5102",
+      "DisplayName": "8Puzzle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
